@@ -29,3 +29,4 @@ Goal-I want contributors to help me finishing this assignment
 3. Walking Dead
 4. 斉木楠雄のΨ難
 5. Stranger Things
+6. アンパンマン
