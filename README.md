@@ -31,3 +31,4 @@ Goal-I want contributors to help me finishing this assignment
 5. Stranger Things
 6. ドラえもん
 ７. アンパンマン
+8. JoJo
