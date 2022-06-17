@@ -27,3 +27,5 @@ Goal-I want contributors to help me finishing this assignment
 1. Brooklyn Nine-Nine(Example)
 2. BAIOHAZARD
 3. Walking Dead
+4. 斉木楠雄のΨ難
+5. Stranger Things
